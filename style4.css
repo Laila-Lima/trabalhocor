@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(247, 237, 103);
+}
+
+#h1{
+   text-align: center;
+}
+
+img{
+    height: 200px;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+}
+@media (max-width: 768px) {
+    form {
+        padding: 10px;
+    }
+}
